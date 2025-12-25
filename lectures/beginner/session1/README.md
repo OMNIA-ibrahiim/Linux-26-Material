@@ -22,3 +22,4 @@
 
 - [BeRoot: FOSS](https://github.com/Open-Source-Community/BeRoot/blob/main/FOSS)
 - [BeRoot: Introduction to Linux](https://github.com/Open-Source-Community/BeRoot/blob/main/Introduction%20to%20Linux)
+- [Video: Linux File System Structure Explained](https://youtu.be/ISJ44S5sZu8?si=hfJsQ1H36qAktM3G)

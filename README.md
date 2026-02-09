@@ -22,22 +22,22 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 
 | Session                         | Topic                 |
 | ------------------------------- | --------------------- |
-| [Session 1](lectures/beginner/session1) | Introduction to Linux |
-| [Session 2](lectures/beginner/session2) | Introduction to CLI |
-| [Session 3](lectures/beginner/session3) | Compression and archiving |
-| [Session 4](lectures/beginner/session4) | Users, Groups, Permissions & Text Editors |
-| [Session 5](lectures/beginner/session5) | Text Processing (part 1) |
-| [Session 6](lectures/beginner/session6) | git internal (part 1) |
-| [Session 7](lectures/beginner/session7) | git internal (part 2) |
+| [Session 1](sessions/beginner/session1) | Introduction to Linux |
+| [Session 2](sessions/beginner/session2) | Introduction to CLI |
+| [Session 3](sessions/beginner/session3) | Compression and archiving |
+| [Session 4](sessions/beginner/session4) | Users, Groups, Permissions & Text Editors |
+| [Session 5](sessions/beginner/session5) | Text Processing (part 1) |
+| [Session 6](sessions/beginner/session6) | git internal (part 1) |
+| [Session 7](sessions/beginner/session7) | git internal (part 2) |
 
 
 ### Advanced Content 🚀
 
 | Session                         | Topic                    |
 | ------------------------------- | ------------------------ |
-| [Session 1](lectures/advanced/Session1/) | Job Scheduling |
-| [Session 2](lectures/advanced/Session2/) | Package Managers & Building From Source |
-| [Session 3](lectures/advanced/Session3/) | Qemu |
+| [Session 1](sessions/advanced/Session1/) | Job Scheduling |
+| [Session 2](sessions/advanced/Session2/) | Package Managers & Building From Source |
+| [Session 3](sessions/advanced/Session3/) | Qemu |
 
 ## 🤝 Contributing
 

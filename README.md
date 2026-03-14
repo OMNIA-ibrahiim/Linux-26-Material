@@ -31,6 +31,7 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 | [Session 7](sessions/beginner/session7) | git internal (part 2) |
 | [Session 8](sessions/beginner/session8) | Bash Scripting (part 1) |
 | [Session 9](sessions/beginner/session9) | Bash Scripting (part 2) |
+| [Session 10](sessions/beginner/session10) | Text Processing (part 2) |
 
 ### Advanced Content 🚀
 
